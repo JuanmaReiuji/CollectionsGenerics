@@ -1,6 +1,6 @@
 package Generics.Ejercicio6Intermedio;
 
-import java.util.ArrayList;
+import java.util.*;
 
 /**
  * Implementación de Almacenable que guarda todos los elementos recibidos
@@ -47,6 +47,6 @@ public class AlmacenNumeros<T extends Comparable<T>> implements Almacenable<T> {
 
     @Override
     public String toString() {
-        return "AlmacenNumeros" + elementos;
+        return "Almacen de numeros" + elementos;
     }
 }

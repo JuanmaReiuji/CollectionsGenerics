@@ -43,6 +43,6 @@ public class EntidadPersistente<T extends Number & Comparable<T>> {
 
     @Override
     public String toString() {
-        return "EntidadPersistente[" + valor + "]";
+        return "Entidad persistente: " + valor;
     }
 }

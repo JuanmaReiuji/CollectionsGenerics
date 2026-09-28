@@ -37,6 +37,6 @@ public class TareaEjecutable implements Runnable, Comparable<TareaEjecutable> {
 
     @Override
     public String toString() {
-        return nombre + " [prioridad " + prioridad + "]";
+        return nombre + ". Prioridad " + prioridad;
     }
 }

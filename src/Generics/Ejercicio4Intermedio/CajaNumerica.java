@@ -37,6 +37,6 @@ public class CajaNumerica<T extends Number> {
 
     @Override
     public String toString() {
-        return "CajaNumerica[" + numero + "]";
+        return "Caja numerica: " + numero;
     }
 }
