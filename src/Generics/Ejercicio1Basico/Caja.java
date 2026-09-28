@@ -1,4 +1,4 @@
-package Generics.Ejercicio1;
+package Generics.Ejercicio1Basico;
 //Nivel basico
 
 public class Caja<T> {

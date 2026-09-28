@@ -1,4 +1,4 @@
-package Generics.Ejercicio2;
+package Generics.Ejercicio2Basico;
 
 /**
  * Clase que agrupa métodos genéricos de utilidad para el manejo de arreglos.

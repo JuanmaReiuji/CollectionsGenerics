@@ -1,4 +1,4 @@
-package Generics.Ejercicio3;
+package Generics.Ejercicio3Basico;
 
 /**
  * Clase principal de prueba. Crea distintos pares (de String, de Integer,

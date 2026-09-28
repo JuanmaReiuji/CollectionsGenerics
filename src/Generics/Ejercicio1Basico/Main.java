@@ -1,4 +1,4 @@
-package Generics.Ejercicio1;
+package Generics.Ejercicio1Basico;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Generics.Ejercicio3;
+package Generics.Ejercicio3Basico;
 
 /**
  * Clase genérica que representa un par de valores del mismo tipo.

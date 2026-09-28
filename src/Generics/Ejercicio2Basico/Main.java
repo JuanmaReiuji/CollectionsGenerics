@@ -1,4 +1,4 @@
-package Generics.Ejercicio2;
+package Generics.Ejercicio2Basico;
 
 /**
  * Clase principal de prueba. Crea distintos arreglos (de String y de Integer)
